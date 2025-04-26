@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* utility used in forms */
+.input { @apply border rounded px-2 py-1 w-full; }
